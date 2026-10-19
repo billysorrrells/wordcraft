@@ -90,8 +90,8 @@ fn open_filters(mut d: rfd::AsyncFileDialog, purpose: &str) -> rfd::AsyncFileDia
 
 /// Why no system file dialog can be shown, if it can't (#576); run off the UI thread.
 fn no_system_dialog() -> Option<String> {
-    if std::env::var_os("WORDCRAFT_FILE_DIALOG").is_some_and(|v| v == "builtin") {
-        return Some("WORDCRAFT_FILE_DIALOG=builtin".into());
+    if std::env::var_os("BILLO WRITE_FILE_DIALOG").is_some_and(|v| v == "builtin") {
+        return Some("BILLO WRITE_FILE_DIALOG=builtin".into());
     }
     portal_or_zenity_missing()
 }

@@ -311,7 +311,7 @@ fn glide_secs() -> f64 {
         return GLIDE_SECS;
     }
     static SECS: std::sync::OnceLock<f64> = std::sync::OnceLock::new();
-    *SECS.get_or_init(|| parse_ms(std::env::var("WORDCRAFT_CARET_GLIDE_MS").ok().as_deref()))
+    *SECS.get_or_init(|| parse_ms(std::env::var("BILLO WRITE_CARET_GLIDE_MS").ok().as_deref()))
 }
 
 fn parse_ms(value: Option<&str>) -> f64 {

@@ -271,7 +271,7 @@ pub struct ReadAloud {
 
 impl Default for ReadAloud {
     fn default() -> Self {
-        let off = cfg!(test) || std::env::var("WORDCRAFT_SPEECH").is_ok_and(|v| v == "off");
+        let off = cfg!(test) || std::env::var("BILLO WRITE_SPEECH").is_ok_and(|v| v == "off");
         ReadAloud {
             shared: Arc::new((
                 Mutex::new(Shared { queue: Vec::new(), index: 0, state: State::Stopped, rate: 1.0, generation: 0, error: None, running: false }),

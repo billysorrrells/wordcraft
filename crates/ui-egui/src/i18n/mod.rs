@@ -270,7 +270,7 @@ pub fn system_lang() -> Lang {
 fn detect_system_lang() -> Lang {
     // An explicit override, then the platform's preferred UI languages (Windows display language,
     // macOS preferred languages, `LC_ALL`/`LC_MESSAGES`/`LANG` on Unix, the browser on the web).
-    if let Some(l) = std::env::var("WORDCRAFT_LANGUAGE").ok().and_then(|v| lang_from_tag(&v)) {
+    if let Some(l) = std::env::var("BILLO WRITE_LANGUAGE").ok().and_then(|v| lang_from_tag(&v)) {
         return l;
     }
     let tags: Vec<String> = sys_locale::get_locales().take(16).collect();
@@ -286,7 +286,7 @@ pub fn system_region() -> wordcraft_engine::Region {
     }
     let var = |name: &str| std::env::var(name).ok().filter(|v| usable_locale(v));
     // One tag for everything: an explicit override, or `LC_ALL`.
-    if let Some(tag) = var("WORDCRAFT_REGION").or_else(|| var("LC_ALL")) {
+    if let Some(tag) = var("BILLO WRITE_REGION").or_else(|| var("LC_ALL")) {
         return wordcraft_engine::Region::from_tag(&tag);
     }
     // Unix sets each convention on its own: numbers (`LC_NUMERIC`, else `LANG`), paper

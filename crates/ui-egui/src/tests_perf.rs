@@ -49,7 +49,7 @@ fn wheel(h: &mut egui_kittest::Harness<'static, WordApp>, dy: f32) {
 #[test]
 #[ignore]
 fn big_table_scroll_bench() {
-    let doc = match std::env::var("WORDCRAFT_BENCH_DOCX") {
+    let doc = match std::env::var("BILLO WRITE_BENCH_DOCX") {
         Ok(p) => wordcraft_engine::io::open_path(std::path::Path::new(&p)).unwrap(),
         Err(_) => big_table_doc(2000, 8),
     };

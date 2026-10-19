@@ -1,6 +1,6 @@
 # Hungarian (hu) interface catalog. Columns, separated by a TAB:
 #   context <TAB> English source <TAB> translation
-#   context    empty (WordCraft uses no contexts yet)
+#   context    empty (Billo Write uses no contexts yet)
 #   source     the English text exactly as in the code (tl!(...), ribbon labels, command labels)
 #   escapes    \n  \t  \\  inside a column. `{name}` placeholders must appear in both columns, and a
 #              trailing "…" in one needs one in the other.
@@ -8,7 +8,7 @@
 #
 # Commands are nouns (Mentés, Másolás); second-person text uses the informal te form; labels
 # capitalise only the first word, as Hungarian spelling does; product and format names stay as
-# they are (WordCraft, PDF, Markdown, MCP …). A noun after a number stays singular (3 oldal), so
+# they are (Billo Write, PDF, Markdown, MCP …). A noun after a number stays singular (3 oldal), so
 # no plural forms are needed. Placeholders never take a case ending: the wording puts them after
 # a colon or in parentheses instead.
 # Clean room: every entry was written from the plain meaning of the English label in ordinary
@@ -17,10 +17,10 @@
 
 	(no suggestions)	(nincs javaslat)
 	1.5 Line Spacing	1,5-es sorköz
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the ArtCraft team.	Ingyenes, nyílt forráskódú szövegszerkesztő, az alapoktól Rustban írva.\nA Crafting Apps családba tartozik, az ArtCraft csapatától.
+	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Ingyenes, nyílt forráskódú szövegszerkesztő, az alapoktól Rustban írva.\nA Crafting Apps családba tartozik, az BilloTech csapatától.
 	AaBbCcDd	AaÁáBbCc
 	About	Névjegy
-	About WordCraft	A WordCraft névjegye
+	About Billo Write	A Billo Write névjegye
 	Accept	Elfogadás
 	Accept All Changes	Összes módosítás elfogadása
 	Accept This Change	E módosítás elfogadása
@@ -368,8 +368,8 @@
 	Intense Reference	Erős hivatkozás
 	Interface language:	Felület nyelve:
 	Italic	Dőlt
-	Join the ArtCraft community on Discord	Csatlakozz az ArtCraft közösséghez a Discordon
-	Join us on Discord: discord.gg/artcraft	Csatlakozz hozzánk a Discordon: discord.gg/artcraft
+	Open the BilloTech toolkit	Csatlakozz az BilloTech közösséghez a Discordon
+	BilloTech Toolkit: billysorrells.com/billotech	Csatlakozz hozzánk a Discordon: billysorrells.com/billotech
 	Justify	Sorkizárás
 	Keep Lines Together	Sorok együtt tartása
 	Keep lines together	Sorok együtt tartása
@@ -428,7 +428,7 @@
 	Merge Formatting	Formázás összefésülése
 	Merged PRs	Beolvasztott PR-ek
 	Mirrored	Tükrözött
-	MIT OR Apache-2.0. Copyright (c) 2026 ArtCraft Team and the WordCraft contributors.	MIT vagy Apache-2.0. Copyright (c) 2026 ArtCraft Team és a WordCraft közreműködői.
+	MIT OR Apache-2.0. Copyright (c) 2026 BilloTech Team and the Billo Write contributors.	MIT vagy Apache-2.0. Copyright (c) 2026 BilloTech Team és a Billo Write közreműködői.
 	Moderate	Mérsékelt
 	Modify Style	Stílus módosítása
 	Modify…	Módosítás…
@@ -680,7 +680,7 @@
 	Small caps	Kiskapitális
 	SmartArt	SmartArt
 	Sort	Rendezés
-	Source code: github.com/storytold/wordcraft	Forráskód: github.com/storytold/wordcraft
+	Source code: billysorrells.com/billotech	Forráskód: billysorrells.com/billotech
 	Space before/after:	Térköz előtte/utána:
 	Spacing	Térköz
 	Spacing (pt):	Térköz (pt):
@@ -815,7 +815,7 @@
 	Word Left	Szó balra
 	Word Right	Szó jobbra
 	WordArt	WordArt
-	WordCraft	WordCraft
+	Billo Write	Billo Write
 	Words	Szavak
 	Words only	Csak szavak
 	Wrap Text	Szöveg körbefuttatása
@@ -832,7 +832,7 @@
 	Show documents with their colours inverted, like View › Switch Modes. Saving, printing and PDFs are unchanged.	A dokumentumok fordított színekkel jelennek meg, mint a Nézet › Módváltás esetén. A mentés, a nyomtatás és a PDF változatlan marad.
 	Only web (http, https) and email (mailto) links can be followed	Csak webes (http, https) és e-mail (mailto) link nyitható meg
 	Apply Styles	Stílusok alkalmazása
-	AutoSave documents you have saved in WordCraft	A WordCraftban mentett dokumentumok automatikus mentése
+	AutoSave documents you have saved in Billo Write	A Billo Writeban mentett dokumentumok automatikus mentése
 	AutoSave failed: {error}. Save the document to turn AutoSave back on.	Az automatikus mentés sikertelen: {error}. Az újbóli bekapcsolásához mentsd a dokumentumot.
 	Bottom Margin	Alsó margó
 	Edit Comment	Megjegyzés szerkesztése
@@ -1082,7 +1082,7 @@
 	Insert a new equation (Alt+=)	Új egyenlet beszúrása (Alt+=)
 	Leave the equation (Esc)	Kilépés az egyenletből (Esc)
 	Preview	Előnézet
-	getartcraft.com/apps/wordcraft	getartcraft.com/apps/wordcraft
+	billysorrells.com/billotech	billysorrells.com/billotech
 	Browse…	Tallózás…
 	AaBbYyZz	AaBbYyZz ŐőŰű
 	Align Top Left	Igazítás balra fel
@@ -1532,7 +1532,7 @@
 	The document will be saved with a password. Save it to protect it.	A dokumentum jelszóval lesz mentve. A védelemhez mentsd.
 	The password is removed. Save the document to keep the change.	A jelszó eltávolítva. A módosítás megtartásához mentsd a dokumentumot.
 	The passwords don't match.	A két jelszó nem egyezik.
-	Keep the password somewhere safe: without it nobody, WordCraft included, can open the document. Leave both boxes empty to remove the password.	Tartsd biztonságos helyen a jelszót: nélküle senki, még a WordCraft sem tudja megnyitni a dokumentumot. A jelszó eltávolításához hagyd üresen mindkét mezőt.
+	Keep the password somewhere safe: without it nobody, Billo Write included, can open the document. Leave both boxes empty to remove the password.	Tartsd biztonságos helyen a jelszót: nélküle senki, még a Billo Write sem tudja megnyitni a dokumentumot. A jelszó eltávolításához hagyd üresen mindkét mezőt.
 	{cols}×{rows} Table	{cols}×{rows} táblázat
 	Name	Név
 	PRs	PR-ek
@@ -2290,7 +2290,7 @@
 	Word document	Word-dokumentum
 	All files	Minden fájl
 	Recipient lists	Címzettlisták
-	The system file dialog isn't available, so WordCraft shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	A rendszer fájlpárbeszédablaka nem érhető el, ezért a WordCraft a sajátját mutatja. A rendszer párbeszédablakához telepíts egy fájlválasztó portált (például xdg-desktop-portal-gtk) vagy a zenity programot.
+	The system file dialog isn't available, so Billo Write shows its own. To get the system dialog, install a file chooser portal (such as xdg-desktop-portal-gtk) or zenity.	A rendszer fájlpárbeszédablaka nem érhető el, ezért a Billo Write a sajátját mutatja. A rendszer párbeszédablakához telepíts egy fájlválasztó portált (például xdg-desktop-portal-gtk) vagy a zenity programot.
 	Up one level	Egy szinttel feljebb
 	Home folder	Saját mappa
 	{name} wasn't found.	Nem található: {name}
@@ -2298,8 +2298,8 @@
 	This folder can't be read: {error}	Ez a mappa nem olvasható: {error}
 	Showing the first {count} items.	Az első {count} elem látható.
 	File name:	Fájlnév:
-	Browse in WordCraft…	Tallózás a WordCraftban…
-	Open a file with WordCraft's own browser when the system file dialog doesn't appear.	Fájl megnyitása a WordCraft saját tallózójával, ha a rendszer fájlpárbeszédablaka nem jelenik meg.
+	Browse in Billo Write…	Tallózás a Billo Writeban…
+	Open a file with Billo Write's own browser when the system file dialog doesn't appear.	Fájl megnyitása a Billo Write saját tallózójával, ha a rendszer fájlpárbeszédablaka nem jelenik meg.
 	Hide White Space	Üres terület elrejtése
 	All pages	Minden oldal
 	Current page	Aktuális oldal
@@ -2434,13 +2434,13 @@
 	Use "an" before a vowel sound	Magánhangzóval kezdődő szó előtt „an” áll
 	Use "a" before a consonant sound	Mássalhangzóval kezdődő szó előtt „a” áll
 	The spelling and grammar check is complete.	A helyesírás- és nyelvhelyesség-ellenőrzés befejeződött.
-	Couldn't make WordCraft the default: {error}	Nem sikerült a WordCraftot alapértelmezetté tenni: {error}
-	In Default apps, choose WordCraft for the document types you want it to open.	Az Alapértelmezett alkalmazások között válassza a WordCraftot azokhoz a dokumentumtípusokhoz, amelyeket meg kell nyitnia.
-	Make WordCraft the default for Word documents…	A WordCraft legyen az alapértelmezett a Word-dokumentumokhoz…
-	Opens .docx, .doc, .rtf and .odt files and Word templates with WordCraft from now on.	Mostantól a .docx, .doc, .rtf és .odt fájlok, valamint a Word-sablonok a WordCrafttal nyílnak meg.
-	Opens Settings › Default apps, where you choose WordCraft for .docx and the other document types.	Megnyitja a Beállítások › Alapértelmezett alkalmazások lapot, ahol a WordCraftot választhatja a .docx és a többi dokumentumtípus számára.
-	To open Word documents with WordCraft by default: select one in Finder, choose File › Get Info, pick WordCraft under Open with, then click Change All.	Ha a Word-dokumentumokat alapértelmezés szerint a WordCrafttal szeretné megnyitni: jelöljön ki egyet a Finderben, válassza a Fájl › Információ parancsot, a „Megnyitás ezzel” alatt válassza a WordCraftot, majd kattintson az „Összes módosítása” gombra.
-	WordCraft is now the default app for Word documents.	Mostantól a WordCraft az alapértelmezett alkalmazás a Word-dokumentumokhoz.
+	Couldn't make Billo Write the default: {error}	Nem sikerült a Billo Writeot alapértelmezetté tenni: {error}
+	In Default apps, choose Billo Write for the document types you want it to open.	Az Alapértelmezett alkalmazások között válassza a Billo Writeot azokhoz a dokumentumtípusokhoz, amelyeket meg kell nyitnia.
+	Make Billo Write the default for Word documents…	A Billo Write legyen az alapértelmezett a Word-dokumentumokhoz…
+	Opens .docx, .doc, .rtf and .odt files and Word templates with Billo Write from now on.	Mostantól a .docx, .doc, .rtf és .odt fájlok, valamint a Word-sablonok a Billo Writetal nyílnak meg.
+	Opens Settings › Default apps, where you choose Billo Write for .docx and the other document types.	Megnyitja a Beállítások › Alapértelmezett alkalmazások lapot, ahol a Billo Writeot választhatja a .docx és a többi dokumentumtípus számára.
+	To open Word documents with Billo Write by default: select one in Finder, choose File › Get Info, pick Billo Write under Open with, then click Change All.	Ha a Word-dokumentumokat alapértelmezés szerint a Billo Writetal szeretné megnyitni: jelöljön ki egyet a Finderben, válassza a Fájl › Információ parancsot, a „Megnyitás ezzel” alatt válassza a Billo Writeot, majd kattintson az „Összes módosítása” gombra.
+	Billo Write is now the default app for Word documents.	Mostantól a Billo Write az alapértelmezett alkalmazás a Word-dokumentumokhoz.
 	Numerals:	Számjegyek:
 	Numerals	Számjegyek
 	Hindi	Hindi
@@ -2456,8 +2456,8 @@
 	Undo 1 Action	1 művelet visszavonása
 	Undo {n} Actions	{n} művelet visszavonása
 	Start-up	Indítás
-	Show the Start screen when WordCraft starts	Kezdőképernyő megjelenítése a WordCraft indításakor
-	On: WordCraft opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Be: a WordCraft a Fájl › Kezdőlap oldalon nyílik meg, üres dokumentummal, a sablonokkal és a legutóbbi dokumentumokkal. Ki: üres dokumentumot nyit meg.
+	Show the Start screen when Billo Write starts	Kezdőképernyő megjelenítése a Billo Write indításakor
+	On: Billo Write opens on File › Home, with a blank document, the templates and your recent documents. Off: it opens a blank document.	Be: a Billo Write a Fájl › Kezdőlap oldalon nyílik meg, üres dokumentummal, a sablonokkal és a legutóbbi dokumentumokkal. Ki: üres dokumentumot nyit meg.
 	Correct TWo INitial CApitals	KÉt KEzdő NAgybetű javítása
 	Correct accidental usage of cAPS LOCK key	A cAPS LOCK billentyű véletlen használatának javítása
 	Region:	Régió:
