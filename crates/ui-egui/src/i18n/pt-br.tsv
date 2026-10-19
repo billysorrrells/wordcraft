@@ -14,7 +14,7 @@
 	(no style)	(sem estilo)
 	(no suggestions)	(sem sugestões)
 	1.5 Line Spacing	Espaçamento de 1,5 linha
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Um processador de texto gratuito e de código aberto, escrito do zero em Rust.\nFaz parte dos Crafting Apps da equipe BilloTech.
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Um processador de texto gratuito e de código aberto, escrito do zero em Rust.\nFaz parte dos Crafting Apps da equipe BilloTech.
 	About	Sobre
 	About Billo Write	Sobre o Billo Write
 	Accept	Aceitar
@@ -338,7 +338,7 @@
 	Different First Page	Primeira página diferente
 	Different Odd & Even Pages	Páginas ímpares e pares diferentes
 	Discord	Discord
-	Discord community	Comunidade do Discord
+	BilloTech toolkit	Comunidade do Discord
 	Display	Exibição
 	Display for Review	Exibir para revisão
 	Distribute Columns	Distribuir colunas uniformemente

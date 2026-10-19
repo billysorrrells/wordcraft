@@ -19,7 +19,7 @@
 	(no suggestions)	(нема предлога)
 	(picture or object)	(слика или објекат)
 	1.5 Line Spacing	Проређеност 1,5
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Бесплатан, отворени обрађивач текста написан од нуле у Rust-у.\nДео Crafting Apps пакета тима BilloTech.
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Бесплатан, отворени обрађивач текста написан од нуле у Rust-у.\nДео Crafting Apps пакета тима BilloTech.
 	A password is required to open this document.	За отварање овог документа потребна је лозинка.
 	About	О програму
 	About Billo Write	О Billo Write-у
@@ -387,7 +387,7 @@
 	Different First Page	Другачија прва страна
 	Different Odd & Even Pages	Другачије непарне и парне стране
 	Discord	Discord
-	Discord community	Заједница на Discord-у
+	BilloTech toolkit	Заједница на Discord-у
 	Display	Приказ
 	Display for Review	Приказ за преглед
 	Distribute Columns	Равномерно размести колоне

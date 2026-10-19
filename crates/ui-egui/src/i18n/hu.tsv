@@ -17,7 +17,7 @@
 
 	(no suggestions)	(nincs javaslat)
 	1.5 Line Spacing	1,5-es sorköz
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Ingyenes, nyílt forráskódú szövegszerkesztő, az alapoktól Rustban írva.\nA Crafting Apps családba tartozik, az BilloTech csapatától.
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Ingyenes, nyílt forráskódú szövegszerkesztő, az alapoktól Rustban írva.\nA Crafting Apps családba tartozik, az BilloTech csapatától.
 	AaBbCcDd	AaÁáBbCc
 	About	Névjegy
 	About Billo Write	A Billo Write névjegye
@@ -198,7 +198,7 @@
 	Different First Page	Eltérő első oldal
 	Different Odd & Even Pages	Eltérő páros és páratlan oldalak
 	Discord	Discord
-	Discord community	Discord-közösség
+	BilloTech toolkit	Discord-közösség
 	Display	Megjelenítés
 	Display for Review	Megjelenítés véleményezéshez
 	Distribute Columns	Oszlopok egyenletes elosztása

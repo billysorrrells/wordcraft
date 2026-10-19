@@ -19,7 +19,7 @@
 	(no style)	(без стил)
 	(no suggestions)	(няма предложения)
 	1.5 Line Spacing	Междуредие 1,5
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Безплатен текстообработващ редактор с отворен код, написан от нулата на Rust.\nЧаст от Crafting Apps на екипа на BilloTech.
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Безплатен текстообработващ редактор с отворен код, написан от нулата на Rust.\nЧаст от Crafting Apps на екипа на BilloTech.
 	About	Относно
 	About Billo Write	За Billo Write
 	Accept	Приемане
@@ -275,7 +275,7 @@
 	Different Odd & Even Pages	Различни четни и нечетни страници
 	Direct formatting	Директно форматиране
 	Discord	Discord
-	Discord community	Общност в Discord
+	BilloTech toolkit	Общност в Discord
 	Display	Показване
 	Display for Review	Показване за преглед
 	Distribute Columns	Разпределяне на колоните

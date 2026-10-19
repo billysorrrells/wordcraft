@@ -15,7 +15,7 @@
 	(no style)	（无样式）
 	(no suggestions)	（无建议）
 	1.5 Line Spacing	1.5 倍行距
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	一款用 Rust 从零编写的免费开源文字处理软件。\n属于 BilloTech 团队的 Crafting Apps 系列。
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	一款用 Rust 从零编写的免费开源文字处理软件。\n属于 BilloTech 团队的 Crafting Apps 系列。
 	About	关于
 	About Billo Write	关于 Billo Write
 	Accept	接受
@@ -347,7 +347,7 @@
 	Different First Page	首页不同
 	Different Odd & Even Pages	奇偶页不同
 	Discord	Discord
-	Discord community	Discord 社区
+	BilloTech toolkit	Discord 社区
 	Display	显示
 	Display for Review	显示以供审阅
 	Distribute Columns	平均分布各列

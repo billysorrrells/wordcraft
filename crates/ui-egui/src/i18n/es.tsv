@@ -16,7 +16,7 @@
 	(no style)	(sin estilo)
 	(no suggestions)	(sin sugerencias)
 	1.5 Line Spacing	Interlineado 1,5
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Un procesador de textos gratuito y de código abierto, escrito desde cero en Rust.\nForma parte de las Crafting Apps del equipo de BilloTech.
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Un procesador de textos gratuito y de código abierto, escrito desde cero en Rust.\nForma parte de las Crafting Apps del equipo de BilloTech.
 	About	Acerca de
 	About Billo Write	Acerca de Billo Write
 	Accept	Aceptar
@@ -327,7 +327,7 @@
 	Different Odd & Even Pages	Páginas pares e impares diferentes
 	Direct formatting	Formato directo
 	Discord	Discord
-	Discord community	Comunidad de Discord
+	BilloTech toolkit	Comunidad de Discord
 	Display	Mostrar
 	Display for Review	Mostrar para revisión
 	Distribute Columns	Distribuir columnas

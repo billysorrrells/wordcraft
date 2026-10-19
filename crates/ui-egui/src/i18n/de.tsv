@@ -14,7 +14,7 @@
 	(no style)	(keine Formatvorlage)
 	(no suggestions)	(keine Vorschläge)
 	1.5 Line Spacing	Zeilenabstand 1,5
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Ein kostenloses, quelloffenes Textverarbeitungsprogramm, von Grund auf in Rust geschrieben.\nTeil der Crafting Apps des BilloTech-Teams.
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Ein kostenloses, quelloffenes Textverarbeitungsprogramm, von Grund auf in Rust geschrieben.\nTeil der Crafting Apps des BilloTech-Teams.
 	About	Info
 	About Billo Write	Über Billo Write
 	Accept	Annehmen
@@ -281,7 +281,7 @@
 	Different First Page	Andere erste Seite
 	Different Odd & Even Pages	Andere gerade und ungerade Seiten
 	Discord	Discord
-	Discord community	Discord-Community
+	BilloTech toolkit	Discord-Community
 	Display	Anzeige
 	Display for Review	Anzeige zur Überprüfung
 	Distribute Columns	Spalten verteilen

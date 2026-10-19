@@ -11,7 +11,7 @@
 
 	(no suggestions)	(soovitused puuduvad)
 	1.5 Line Spacing	Reavahe 1,5
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Tasuta avatud lähtekoodiga tekstitöötlusprogramm, mis on kirjutatud Rustis.\nBilloTechi meeskonna Crafting Appsi osa.
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Tasuta avatud lähtekoodiga tekstitöötlusprogramm, mis on kirjutatud Rustis.\nBilloTechi meeskonna Crafting Appsi osa.
 	About	Teave
 	About Billo Write	Billo Writei teave
 	Accept	Nõustu
@@ -202,7 +202,7 @@
 	Different Odd & Even Pages	Erinevad paaris- ja paaritud lehed
 	Direct formatting	Otsevormindus
 	Discord	Discord
-	Discord community	Discordi kogukond
+	BilloTech toolkit	Discordi kogukond
 	Display	Kuva
 	Display for Review	Kuva läbivaatuseks
 	Distribute Columns	Jaota veerud ühtlaselt

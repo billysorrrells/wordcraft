@@ -3,7 +3,7 @@
 	(no style)	(スタイルなし)
 	(no suggestions)	（候補なし）
 	1.5 Line Spacing	1.5 行
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Rust でゼロから書かれた、無料のオープンソース ワープロです。\nBilloTech チームの Crafting Apps のひとつです。
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Rust でゼロから書かれた、無料のオープンソース ワープロです。\nBilloTech チームの Crafting Apps のひとつです。
 	About	情報
 	About Billo Write	Billo Write について
 	Accept	承諾
@@ -335,7 +335,7 @@
 	Different First Page	先頭ページのみ別指定
 	Different Odd & Even Pages	奇数/偶数ページ別指定
 	Discord	Discord
-	Discord community	Discord コミュニティ
+	BilloTech toolkit	Discord コミュニティ
 	Display	表示
 	Display for Review	変更内容の表示
 	Distribute Columns	列の幅を揃える

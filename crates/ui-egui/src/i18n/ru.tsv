@@ -15,7 +15,7 @@
 
 	(no suggestions)	(нет вариантов)
 	1.5 Line Spacing	Полуторный интервал
-	A free, open-source word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Бесплатный текстовый процессор с открытым исходным кодом, написанный с нуля на Rust.\nВходит в Crafting Apps от команды BilloTech.
+	A free, BilloTech word processor written from scratch in Rust.\nPart of the Crafting Apps from the BilloTech team.	Бесплатный текстовый процессор с открытым исходным кодом, написанный с нуля на Rust.\nВходит в Crafting Apps от команды BilloTech.
 	AaBbCcDd	АаБбВвГг
 	About	О программе
 	About Billo Write	О Billo Write
@@ -198,7 +198,7 @@
 	Different First Page	Особая первая страница
 	Different Odd & Even Pages	Разные для чётных и нечётных страниц
 	Discord	Discord
-	Discord community	Сообщество в Discord
+	BilloTech toolkit	Сообщество в Discord
 	Display	Отображение
 	Display for Review	Отображение исправлений
 	Distribute Columns	Выровнять ширину столбцов
